@@ -1,0 +1,24 @@
+{
+  "name": "ElectronRethinkDB",
+  "version": "1.0.0",
+  "description": "YouTube Music Player 2.0",
+  "main": "main.js",
+  "repository": {},
+  "author": "Nils Bergmann <nilsbergmann@noim.io>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "fs-extra": "^2.0.0"
+  },
+  "devDependencies": {
+    "ascii-progress": "^1.0.5",
+    "child-process-es6-promise": "^1.1.0",
+    "decompress": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sequence": "^0.4.6",
+    "gulp-util": "^3.0.8",
+    "request": "^2.79.0",
+    "request-progress": "^3.0.0",
+    "targz": "^1.0.1"
+  }
+}
