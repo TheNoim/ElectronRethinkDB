@@ -63,3 +63,5 @@ typings/
 RethinkDB/
 
 yarn.lock
+
+.idea/
